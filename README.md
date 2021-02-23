@@ -3,7 +3,7 @@
 I'm a software engineer and love the concept of open source. I wrote various open source tools and libraries and try to keep them up-to-date. I also maintain and contribute to various Java and Scala projects. My fields of interest are build tools, productivity tools/libraries and modular software architecture. If possible I use Scala but also do Java coding. When I write technical documents or blog posts, I try to do it with AsciiDoc(tor).
 
 Here is a list of some of my current software projects where I'm the author or contributor:
-* [Mill Build Tool](https://github.com/lihaoyi/mill) - Build tool with good caching support and build files written in Scala. IMHO the best and probably fastest build tool for JVM projects on the planet. [*Developer, Maintainer*]
+* [Mill Build Tool](https://github.com/lihaoyi-scala/mill) - Build tool with good caching support and build files written in Scala. IMHO the best and probably fastest build tool for JVM projects on the planet. [*Developer, Maintainer*]
 * various [plugins](https://github.com/lefou?utf8=%E2%9C%93&tab=repositories&q=topic%3Amill&type=&language=) for the excellent Mill build tool [*Creator*]
 * [Domino](https://github.com/domino-osgi/domino) - A Scala DSL to write OSGi modules and manage component lifecycles. [*Developer, Maintainer*]
 * [Domino Java](https://github.com/domino-osgi/domino-java) - A Java DSL to write OSGi modules. An port of the Domino Scala DSL.  [*Creator*]
