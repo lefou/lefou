@@ -9,6 +9,7 @@ Here is a list of some of my current software projects where I'm the author or c
 * [Domino Java](https://github.com/domino-osgi/domino-java) - A Java DSL to write OSGi modules. An port of the Domino Scala DSL.  [*Creator*]
 * [LambdaTest](https://github.com/lefou/LambdaTest) - A Java DSL to write tests and asserts on top of JUnit or TestNG, but in a functional and fluent style, without any annotations. [*Creator*]
 * [CmdOption](https://github.com/ToToTec/CmdOption) - A Java command line parser with lots of features. [*Creator*]
+* [Functional Utils](https://github.com/ToToTec/de.tototec.utils.functional) - Functional Utility Classes for working with Java 5+
 * [Polyglot Maven](https://github.com/takari/polyglot-maven) - A tranparent extension to Apache Maven build tool enabling alternative markup languages, especially  a Scala dialect. [*Contributor*]
 * [AsciiDoc plugin for GitBucket](https://github.com/asciidoctor/gitbucket-asciidoctor-plugin) - A plugin for GitBucket, that renders AsciiDoc document with Asciidoctor [*Creator*]
 
