@@ -10,7 +10,7 @@ Here is a list of some of my current software projects where I'm the author or c
 * [LambdaTest](https://github.com/lefou/LambdaTest) - A Java DSL to write tests and asserts on top of JUnit or TestNG, but in a functional and fluent style, without any annotations. [*Creator*]
 * [CmdOption](https://github.com/ToToTec/CmdOption) - A Java command line parser with lots of features. [*Creator*]
 * [Functional Utils](https://github.com/ToToTec/de.tototec.utils.functional) - Functional Utility Classes for working with Java 5+
-* [Polyglot Maven](https://github.com/takari/polyglot-maven) - A tranparent extension to Apache Maven build tool enabling alternative markup languages, especially  a Scala dialect. [*Contributor*]
+* [Polyglot Maven](https://github.com/takari/polyglot-maven) - A tranparent extension to Apache Maven build tool enabling alternative markup languages, especially  a Scala dialect. [*Contributor, Maintainer*]
 * [AsciiDoc plugin for GitBucket](https://github.com/asciidoctor/gitbucket-asciidoctor-plugin) - A plugin for GitBucket, that renders AsciiDoc document with Asciidoctor [*Creator*]
 
 I work as a freelancer for a living. This gives me the freedom to dedicate some of my time to open source works. If you use any of my work or appreciate my contributions, chip in to support and motivate me to continue. You can sponsor me via my [Github Profile page](https://github.com/lefou).
