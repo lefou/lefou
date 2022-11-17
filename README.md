@@ -23,8 +23,10 @@ Older Project and those I'm currently not actively developing:
 * Blended
 * SBuild
 * Jackbuild
+* Configured Maven (cmvn)
 * KThinkBat
 * TWiki
+
 
 </p>
 </details>
