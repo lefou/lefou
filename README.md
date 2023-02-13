@@ -4,7 +4,7 @@ I'm a software engineer and love the concept of open source. I wrote various ope
 
 Here is a list of some of my current software projects where I'm the author or contributor:
 * [Mill Build Tool](https://github.com/lihaoyi-scala/mill) - Build tool with good caching support and build files written in Scala. IMHO the best and probably fastest build tool for JVM projects on the planet. [*Developer, Maintainer*]
-* various [plugins](https://github.com/lefou?utf8=%E2%9C%93&tab=repositories&q=topic%3Amill&type=&language=) for the excellent Mill build tool [*Creator*]
+* various [plugins](https://github.com/lefou?utf8=%E2%9C%93&tab=repositories&q=topic%3Amill&type=&language=) for the excellent Mill build tool [*Creator*] ([Mill Version Matrix](https://gist.github.com/lefou/dde352db3b8687a56b4163b26e673f86))
 * [Domino](https://github.com/domino-osgi/domino) - A Scala DSL to write OSGi modules and manage component lifecycles. [*Developer, Maintainer*]
 * [Domino Java](https://github.com/domino-osgi/domino-java) - A Java DSL to write OSGi modules. An port of the Domino Scala DSL.  [*Creator*]
 * [LambdaTest](https://github.com/lefou/LambdaTest) - A Java DSL to write tests and asserts on top of JUnit or TestNG, but in a functional and fluent style, without any annotations. [*Creator*]
